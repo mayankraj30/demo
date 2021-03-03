@@ -1,2 +1,2 @@
 # some description
-learning Git!
+learning Git from  scratch
